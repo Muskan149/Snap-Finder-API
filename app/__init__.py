@@ -1,0 +1,1 @@
+# SNAP Retailer Locator API
